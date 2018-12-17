@@ -99,5 +99,5 @@ function decreaseInventory(id_num, newTotal){
     console.log("this is where I'll figure out how to log an inventory check to display the change to the sql database for the user to observe")
     connection.end();
 }
-
+    )}
 
